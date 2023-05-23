@@ -20,12 +20,21 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 
 **Languages and Tools:**  
 
-<code><img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=#6DB33F"/></code>
-<img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=#4479A1"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<code><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
-<!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
+<!-- <img src="https://img.shields.io/badge/글자-색상?style=flat-square&logo=아이콘로고&logoColor=로고색상"/> -->
 
 
 
