@@ -20,4 +20,13 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 
 **Languages and Tools:**  
 
+<code><img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=#6DB33F"/></code>
+<img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=#4479A1"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
+
+
+
+
