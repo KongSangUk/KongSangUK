@@ -20,7 +20,7 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 ---
 
 
-![giphy](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
+![giphy](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif, align="right")
 
 ### My skill set</br>
 
