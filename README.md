@@ -18,9 +18,8 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 -  If you wish to contact me, please send an email to ksu9704@naver.com.
 
 ---
-
+</br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="360" height="350" />
-![giphy](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif, align="right")
 
 ### My skill set</br>
 
