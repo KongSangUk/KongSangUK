@@ -18,7 +18,7 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 -  If you wish to contact me, please send an email to ksu9704@naver.com.
 
 
-***My skill set</br>***
+#### My skill set</br>
 
 **Languages </br>**
 <code><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
