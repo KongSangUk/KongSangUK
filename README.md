@@ -18,7 +18,6 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 -  If you wish to contact me, please send an email to ksu9704@naver.com.
 
 ---
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="360" height="350" /></br></br>
 
 ### My skill set</br>
 
@@ -28,6 +27,8 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 **Framework</br>**
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="360" height="350" />
 
 **Database</br>**
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
