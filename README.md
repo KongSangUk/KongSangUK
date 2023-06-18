@@ -47,6 +47,8 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 
 <!-- <img src="https://img.shields.io/badge/글자-색상?style=flat-square&logo=아이콘로고&logoColor=로고색상"/> -->
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ksu9704@naver.com)](https://velog.io/@eungyeole) 
+
 
 
 
