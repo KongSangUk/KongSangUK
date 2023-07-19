@@ -42,10 +42,10 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 <code><img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></code>
 
 **Collaboration Tools</br>**
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<code><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></code>
 
 **Areas under study</br>**
 <code><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></code>
