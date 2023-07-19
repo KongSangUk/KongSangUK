@@ -23,6 +23,7 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 
 **Languages </br>**
 <code><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></code>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="360" height="350" />
 
