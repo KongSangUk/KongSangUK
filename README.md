@@ -34,6 +34,8 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 
 **Database</br>**
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+<code><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 
 **Build Tool</br>**
