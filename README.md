@@ -53,12 +53,5 @@ I also have a keen interest in handling high-traffic volumes efficiently.🚀
 <code><img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
-
 
 <!-- <img src="https://img.shields.io/badge/글자-색상?style=flat-square&logo=아이콘로고&logoColor=로고색상"/> -->
-
-
-
-
-
